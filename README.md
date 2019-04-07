@@ -5,11 +5,11 @@
 4. ./graphics_asgn1
  
 # CONTROLS
-LEFT KEY = move left
-RIGHT KEY = move right
-UP KEY = jump
-SPACE = jetpack
-KEY B = throw balloon
-scroll up = zoom in
-scroll down = zoom out
-left mouse click = return screen to orignal size
+1. LEFT KEY = move left
+2. RIGHT KEY = move right
+3. UP KEY = jump
+4. SPACE = jetpack
+5. KEY B = throw balloon
+6. scroll up = zoom in
+7. scroll down = zoom out
+8. left mouse click = return screen to orignal size
