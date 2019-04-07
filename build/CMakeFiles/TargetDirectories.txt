@@ -1,0 +1,3 @@
+/home/nikhil/graphics/20171186_assignment1/build/CMakeFiles/edit_cache.dir
+/home/nikhil/graphics/20171186_assignment1/build/CMakeFiles/rebuild_cache.dir
+/home/nikhil/graphics/20171186_assignment1/build/CMakeFiles/graphics_asgn1.dir
